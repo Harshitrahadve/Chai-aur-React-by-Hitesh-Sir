@@ -9,4 +9,5 @@ The following is a list of React projects:
 - Theme Switcher
 - React Router DOM
 - ToDo List App
-  And many more are coming soon...
+
+   And many more are coming soon...
